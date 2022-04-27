@@ -8,6 +8,7 @@ SCREEN_HEIGHT = 720
 SCREEN_TITLE = "Python Community RPG"
 TILE_SCALING = 1.0
 SPRITE_SIZE = 32
+DISTANCE_TO_CHANGE_SPRITE = 10
 
 # How fast does the player move
 MOVEMENT_SPEED = 3
